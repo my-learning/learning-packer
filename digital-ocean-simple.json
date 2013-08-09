@@ -1,0 +1,9 @@
+{
+  "builders": [{
+    "type": "digitalocean",
+    "client_id": "",
+    "api_key": "",
+    "image_id": 350076,
+    "region_id": 3
+  }]
+}
